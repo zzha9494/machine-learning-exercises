@@ -1,0 +1,4 @@
+,Score,training_time,validation_time
+"{'activation_function': 'relu', 'optimizer__lr': 0.1}",0.8018,4.88,0.33
+"{'activation_function': 'relu', 'optimizer__lr': 0.01}",0.7863,4.63,0.33
+"{'activation_function': 'relu', 'optimizer__lr': 0.001}",0.7155,4.67,0.31

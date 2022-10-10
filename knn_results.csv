@@ -1,0 +1,7 @@
+,Score,training_time,validation_time
+"{'n_neighbors': 3, 'weights': 'uniform'}",0.8583,0.08,3.82
+"{'n_neighbors': 3, 'weights': 'distance'}",0.8602,0.05,2.89
+"{'n_neighbors': 5, 'weights': 'uniform'}",0.855,0.06,3.11
+"{'n_neighbors': 5, 'weights': 'distance'}",0.8577,0.05,2.96
+"{'n_neighbors': 9, 'weights': 'uniform'}",0.8512,0.06,3.04
+"{'n_neighbors': 9, 'weights': 'distance'}",0.8533,0.05,3.03
