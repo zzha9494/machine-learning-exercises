@@ -1,4 +1,25 @@
 ,Score,training_time,validation_time
-"{'activation_function': 'relu', 'optimizer__lr': 0.1}",0.8018,4.88,0.33
-"{'activation_function': 'relu', 'optimizer__lr': 0.01}",0.7863,4.63,0.33
-"{'activation_function': 'relu', 'optimizer__lr': 0.001}",0.7155,4.67,0.31
+"{'activation_function': 'relu', 'optimizer': 'sgd', 'optimizer__lr': 0.1}",0.8733,60.99,0.34
+"{'activation_function': 'relu', 'optimizer': 'sgd', 'optimizer__lr': 0.01}",0.8835,59.75,0.29
+"{'activation_function': 'relu', 'optimizer': 'sgd', 'optimizer__lr': 0.001}",0.8468,58.45,0.29
+"{'activation_function': 'relu', 'optimizer': 'Adam', 'optimizer__lr': 0.1}",0.197,60.95,0.28
+"{'activation_function': 'relu', 'optimizer': 'Adam', 'optimizer__lr': 0.01}",0.8617,145.03,0.31
+"{'activation_function': 'relu', 'optimizer': 'Adam', 'optimizer__lr': 0.001}",0.8928,69.17,0.32
+"{'activation_function': 'sigmoid', 'optimizer': 'sgd', 'optimizer__lr': 0.1}",0.8803,60.62,0.31
+"{'activation_function': 'sigmoid', 'optimizer': 'sgd', 'optimizer__lr': 0.01}",0.8418,61.28,0.31
+"{'activation_function': 'sigmoid', 'optimizer': 'sgd', 'optimizer__lr': 0.001}",0.6603,62.96,0.32
+"{'activation_function': 'sigmoid', 'optimizer': 'Adam', 'optimizer__lr': 0.1}",0.3617,67.84,0.31
+"{'activation_function': 'sigmoid', 'optimizer': 'Adam', 'optimizer__lr': 0.01}",0.85,67.23,0.33
+"{'activation_function': 'sigmoid', 'optimizer': 'Adam', 'optimizer__lr': 0.001}",0.8933,67.8,0.31
+"{'activation_function': 'tanh', 'optimizer': 'sgd', 'optimizer__lr': 0.1}",0.891,60.8,0.31
+"{'activation_function': 'tanh', 'optimizer': 'sgd', 'optimizer__lr': 0.01}",0.8807,60.11,0.3
+"{'activation_function': 'tanh', 'optimizer': 'sgd', 'optimizer__lr': 0.001}",0.8457,64.16,0.32
+"{'activation_function': 'tanh', 'optimizer': 'Adam', 'optimizer__lr': 0.1}",0.1,67.04,0.31
+"{'activation_function': 'tanh', 'optimizer': 'Adam', 'optimizer__lr': 0.01}",0.8133,82.2,0.43
+"{'activation_function': 'tanh', 'optimizer': 'Adam', 'optimizer__lr': 0.001}",0.888,94.75,0.42
+"{'activation_function': None, 'optimizer': 'sgd', 'optimizer__lr': 0.1}",0.8407,86.99,0.45
+"{'activation_function': None, 'optimizer': 'sgd', 'optimizer__lr': 0.01}",0.8532,86.68,0.41
+"{'activation_function': None, 'optimizer': 'sgd', 'optimizer__lr': 0.001}",0.8473,86.12,0.4
+"{'activation_function': None, 'optimizer': 'Adam', 'optimizer__lr': 0.1}",0.7423,90.82,0.41
+"{'activation_function': None, 'optimizer': 'Adam', 'optimizer__lr': 0.01}",0.8363,90.99,0.43
+"{'activation_function': None, 'optimizer': 'Adam', 'optimizer__lr': 0.001}",0.848,69.84,0.31
