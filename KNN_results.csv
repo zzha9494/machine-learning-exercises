@@ -1,0 +1,13 @@
+,Score,training_time,validation_time
+"{'n_neighbors': 3, 'p': 1, 'weights': 'uniform'}",0.8622,0.05,40.38
+"{'n_neighbors': 3, 'p': 1, 'weights': 'distance'}",0.8653,0.05,40.33
+"{'n_neighbors': 3, 'p': 2, 'weights': 'uniform'}",0.8583,0.05,2.81
+"{'n_neighbors': 3, 'p': 2, 'weights': 'distance'}",0.8602,0.04,2.68
+"{'n_neighbors': 5, 'p': 1, 'weights': 'uniform'}",0.8603,0.05,40.39
+"{'n_neighbors': 5, 'p': 1, 'weights': 'distance'}",0.8622,0.04,40.23
+"{'n_neighbors': 5, 'p': 2, 'weights': 'uniform'}",0.855,0.05,2.92
+"{'n_neighbors': 5, 'p': 2, 'weights': 'distance'}",0.8577,0.05,2.68
+"{'n_neighbors': 9, 'p': 1, 'weights': 'uniform'}",0.8628,0.05,40.42
+"{'n_neighbors': 9, 'p': 1, 'weights': 'distance'}",0.8645,0.04,40.57
+"{'n_neighbors': 9, 'p': 2, 'weights': 'uniform'}",0.8512,0.05,3.06
+"{'n_neighbors': 9, 'p': 2, 'weights': 'distance'}",0.8533,0.05,2.89

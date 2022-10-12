@@ -1,0 +1,25 @@
+,Score,training_time,validation_time
+"{'activation_function': 'relu', 'optimizer': 'sgd', 'optimizer__lr': 0.1}",0.872,49.03,0.31
+"{'activation_function': 'relu', 'optimizer': 'sgd', 'optimizer__lr': 0.01}",0.8833,49.13,0.25
+"{'activation_function': 'relu', 'optimizer': 'sgd', 'optimizer__lr': 0.001}",0.8488,48.98,0.25
+"{'activation_function': 'relu', 'optimizer': 'Adam', 'optimizer__lr': 0.1}",0.198,52.16,0.25
+"{'activation_function': 'relu', 'optimizer': 'Adam', 'optimizer__lr': 0.01}",0.8577,52.98,0.26
+"{'activation_function': 'relu', 'optimizer': 'Adam', 'optimizer__lr': 0.001}",0.8927,52.72,0.25
+"{'activation_function': 'sigmoid', 'optimizer': 'sgd', 'optimizer__lr': 0.1}",0.8867,51.64,0.25
+"{'activation_function': 'sigmoid', 'optimizer': 'sgd', 'optimizer__lr': 0.01}",0.8455,51.55,0.26
+"{'activation_function': 'sigmoid', 'optimizer': 'sgd', 'optimizer__lr': 0.001}",0.6782,51.52,0.26
+"{'activation_function': 'sigmoid', 'optimizer': 'Adam', 'optimizer__lr': 0.1}",0.4063,54.35,0.26
+"{'activation_function': 'sigmoid', 'optimizer': 'Adam', 'optimizer__lr': 0.01}",0.8545,53.68,0.25
+"{'activation_function': 'sigmoid', 'optimizer': 'Adam', 'optimizer__lr': 0.001}",0.894,53.34,0.26
+"{'activation_function': 'tanh', 'optimizer': 'sgd', 'optimizer__lr': 0.1}",0.8873,50.07,0.25
+"{'activation_function': 'tanh', 'optimizer': 'sgd', 'optimizer__lr': 0.01}",0.8873,50.41,0.25
+"{'activation_function': 'tanh', 'optimizer': 'sgd', 'optimizer__lr': 0.001}",0.8467,50.21,0.25
+"{'activation_function': 'tanh', 'optimizer': 'Adam', 'optimizer__lr': 0.1}",0.1,57.98,0.27
+"{'activation_function': 'tanh', 'optimizer': 'Adam', 'optimizer__lr': 0.01}",0.7078,57.59,0.26
+"{'activation_function': 'tanh', 'optimizer': 'Adam', 'optimizer__lr': 0.001}",0.8857,56.22,0.27
+"{'activation_function': None, 'optimizer': 'sgd', 'optimizer__lr': 0.1}",0.8398,52.35,0.26
+"{'activation_function': None, 'optimizer': 'sgd', 'optimizer__lr': 0.01}",0.8512,57.59,0.26
+"{'activation_function': None, 'optimizer': 'sgd', 'optimizer__lr': 0.001}",0.8485,52.61,0.26
+"{'activation_function': None, 'optimizer': 'Adam', 'optimizer__lr': 0.1}",0.7832,55.43,0.26
+"{'activation_function': None, 'optimizer': 'Adam', 'optimizer__lr': 0.01}",0.7968,55.06,0.26
+"{'activation_function': None, 'optimizer': 'Adam', 'optimizer__lr': 0.001}",0.8475,54.47,0.27

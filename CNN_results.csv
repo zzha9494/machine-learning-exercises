@@ -1,0 +1,13 @@
+,Score,training_time,validation_time
+"{'kernel_size': (3, 3), 'optimizer__lr': 0.01, 'strides': (1, 1)}",0.8717,130.88,0.54
+"{'kernel_size': (3, 3), 'optimizer__lr': 0.01, 'strides': (2, 2)}",0.8602,43.34,0.31
+"{'kernel_size': (3, 3), 'optimizer__lr': 0.005, 'strides': (1, 1)}",0.8988,130.16,0.54
+"{'kernel_size': (3, 3), 'optimizer__lr': 0.005, 'strides': (2, 2)}",0.889,42.69,0.31
+"{'kernel_size': (3, 3), 'optimizer__lr': 0.001, 'strides': (1, 1)}",0.9175,138.12,0.6
+"{'kernel_size': (3, 3), 'optimizer__lr': 0.001, 'strides': (2, 2)}",0.889,45.52,0.31
+"{'kernel_size': (5, 5), 'optimizer__lr': 0.01, 'strides': (1, 1)}",0.8502,136.82,0.61
+"{'kernel_size': (5, 5), 'optimizer__lr': 0.01, 'strides': (2, 2)}",0.8483,44.92,0.32
+"{'kernel_size': (5, 5), 'optimizer__lr': 0.005, 'strides': (1, 1)}",0.8833,141.77,0.61
+"{'kernel_size': (5, 5), 'optimizer__lr': 0.005, 'strides': (2, 2)}",0.8688,43.64,0.32
+"{'kernel_size': (5, 5), 'optimizer__lr': 0.001, 'strides': (1, 1)}",0.9137,140.6,0.61
+"{'kernel_size': (5, 5), 'optimizer__lr': 0.001, 'strides': (2, 2)}",0.8857,43.86,0.31
